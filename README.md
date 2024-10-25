@@ -40,7 +40,7 @@ Echa un vistazo a mis proyectos: [https://duberly.vercel.app](https://duberly.ve
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </picture>
  </a> <!-- .linkedin -->
- <a href="https://discord.com/users/duberly2004" target="_blank" rel="noreferrer">
+ <a href="https://discord.com/users/duberly" target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
